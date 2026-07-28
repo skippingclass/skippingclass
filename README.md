@@ -58,6 +58,9 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
     </a>
+    <a href="https://helm.sh/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/helm/white" alt="helm" width="40" height="40"/>
+    </a>
     <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
     </a>
