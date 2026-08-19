@@ -67,6 +67,9 @@
     <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
     </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+    </a>
     <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="redhat" width="40" height="40"/>
     </a>
