@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "skippingclass",
-  "seed": "#4285F4",
+  "seed": "#FED6BC",
   "seedFromAvatar": true,
-  "scheme": "monochrome",
+  "scheme": "fidelity",
   "motion": true,
   "iconFill": true,
   "order": [
@@ -164,7 +164,7 @@
     ],
     "overrides": {
       "dots": {
-        "icon": "brand:archlinux"
+        "icon": "brand:niri"
       },
       "TuneCloud-GitOps": {
         "icon": "brand:helm"
