@@ -2,7 +2,7 @@
 .up{animation:up .8s cubic-bezier(.05,.7,.1,1) both}
 .pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
 .fade{animation:fade .9s ease both}
-.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.spin{transform-box:fill-box;transform-origin:150px 150px;animation:spin 12s linear infinite}
 .spin-r{transform-box:fill-box;transform-origin:center;animation:spin 28s linear infinite reverse}
 .bob{transform-box:fill-box;transform-origin:center;animation:bob 7s ease-in-out infinite}
 .grow{transform-box:fill-box;transform-origin:left center;animation:grow 1.1s cubic-bezier(.2,0,0,1) both}
