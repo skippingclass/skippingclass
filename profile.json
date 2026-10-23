@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "login": "skippingclass",
+  "seed": "#4285F4",
+  "seedFromAvatar": true,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "projects",
+    "stack",
+    "stats",
+    "buttons",
+    "wave",
+    "about",
+    "streak"
+  ],
+  "hidden": [
+    "wave",
+    "streak",
+    "about"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "vlad",
+    "subtitle": "DevOps & Linux tinkerer. Building self-hosted stuff & desktop ricing.",
+    "typing": true,
+    "avatarShape": "gem",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Astana"
+      },
+      {
+        "icon": "brand:kubernetes",
+        "label": "DevOps"
+      },
+      {
+        "icon": "brand:linux",
+        "label": "Linux"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Developer and designer"
+      },
+      {
+        "icon": "code",
+        "label": "Mostly frontend"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "DevOps",
+        "items": [
+          {
+            "icon": "brand:kubernetes",
+            "label": "Kubernetes"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:argo",
+            "label": "Argo CD"
+          },
+          {
+            "icon": "brand:helm",
+            "label": "Helm"
+          },
+          {
+            "icon": "brand:terraform",
+            "label": "Terraform"
+          },
+          {
+            "icon": "brand:ansible",
+            "label": "Ansible"
+          },
+          {
+            "icon": "brand:nginx",
+            "label": "Nginx"
+          }
+        ]
+      },
+      {
+        "title": "Linux & Environments",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:archlinux",
+            "label": "Arch Linux"
+          },
+          {
+            "icon": "brand:gentoo",
+            "label": "Gentoo Linux"
+          },
+          {
+            "icon": "brand:nixos",
+            "label": "NixOS"
+          },
+          {
+            "icon": "brand:neovim",
+            "label": "Neovim"
+          },
+          {
+            "icon": "brand:gnubash",
+            "label": "Bash"
+          }
+        ]
+      },
+      {
+        "title": "Code & Tools",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          },
+          {
+            "icon": "brand:gitlab",
+            "label": "GitLab CI"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "TuneCloud",
+      "dots",
+      "TuneCloud-GitOps",
+      "plasma-lrc",
+      "plasma-ai-status",
+      "SpicetifySongProds"
+    ],
+    "overrides": {
+      "dots": {
+        "icon": "brand:archlinux"
+      },
+      "TuneCloud-GitOps": {
+        "icon": "brand:helm"
+      },
+      "plasma-lrc": {
+        "icon": "brand:kdeplasma"
+      },
+      "plasma-ai-status": {
+        "icon": "brand:kdeplasma"
+      },
+      "SpicetifySongProds": {
+        "icon": "brand:spotify"
+      },
+      "TuneCloud": {
+        "icon": "music_note_2"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": false
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/817806878423646247"
+      },
+      {
+        "icon": "brand:lastdotfm",
+        "url": "https://last.fm/skippingclass"
+      }
+    ],
+    "variant": "chip",
+    "fill": "outlined",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://realgeek.ru",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}

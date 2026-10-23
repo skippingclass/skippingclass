@@ -1,82 +1,21 @@
-<h1 align="center">Hi 🫪, I'm Vlad</h1>
+<div align="center">
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m vlad"></picture>
 
-<h3 align="center">🌟 I have some xp with:</h3>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.552%" alt=""></picture><a href="https://discord.com/users/817806878423646247"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://last.fm/skippingclass"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.342%" alt="lastdotfm"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.552%" alt=""></picture>
 
-<p align="center">
-    <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <a href="https://www.gentoo.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo_Linux_logo_matte.svg" alt="gentoo" width="40" height="40"/>
-    </a>
-    <a href="https://nixos.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" alt="nixos" width="40" height="40"/>
-    </a>
-    <a href="https://archlinux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="arch" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/niri-wm/niri" target="_blank" rel="noreferrer">
-        <img src="https://github.com/niri-wm/niri/wiki/logo/niri-icon.svg" alt="niri-wm" width="40" height="40"/>
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-    </a>
-    <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/>
-    </a>
-</p>
+<a href="https://github.com/skippingclass/TuneCloud"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tunecloud-dark.svg"><img src="assets/project-tunecloud-light.svg" width="49%" alt="TuneCloud"></picture></a>&nbsp;<a href="https://github.com/skippingclass/dots"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-dots-dark.svg"><img src="assets/project-dots-light.svg" width="49%" alt="dots"></picture></a>
 
+<a href="https://github.com/skippingclass/TuneCloud-GitOps"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-tunecloud-gitops-dark.svg"><img src="assets/project-tunecloud-gitops-light.svg" width="49%" alt="TuneCloud-GitOps"></picture></a>&nbsp;<a href="https://github.com/skippingclass/plasma-lrc"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-plasma-lrc-dark.svg"><img src="assets/project-plasma-lrc-light.svg" width="49%" alt="plasma-lrc"></picture></a>
 
+<a href="https://github.com/skippingclass/plasma-ai-status"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-plasma-ai-status-dark.svg"><img src="assets/project-plasma-ai-status-light.svg" width="49%" alt="plasma-ai-status"></picture></a>&nbsp;<a href="https://github.com/skippingclass/SpicetifySongProds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-spicetifysongprods-dark.svg"><img src="assets/project-spicetifysongprods-light.svg" width="49%" alt="SpicetifySongProds"></picture></a>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<!-- DevOps & Infra -->
-<p align="center">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-    </a>
-    <a href="https://helm.sh/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/helm/white" alt="helm" width="40" height="40"/>
-    </a>
-    <a href="https://argo-cd.readthedocs.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
-    </a>
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
-    </a>
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-    </a>
-    <a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/redhat/EE0000" alt="redhat" width="40" height="40"/>
-    </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-    </a>
-    <a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
-    </a>
-    <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
-    </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<!-- DB & Design -->
-<p align="center">
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
- </a>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-l-dark.svg"><img src="assets/button-l-light.svg" width="25.821%" alt=""></picture><a href="https://realgeek.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="22.417%" alt="My website"></picture></a><a href="https://github.com/skippingclass?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="25.939%" alt="All repositories"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-r-dark.svg"><img src="assets/button-r-light.svg" width="25.821%" alt=""></picture>
+
+<a href="https://metawka.github.io/expressive-profile/?from=skippingclass"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
+</div>
