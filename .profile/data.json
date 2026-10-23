@@ -1,0 +1,418 @@
+{
+ "key": "29ff05c3",
+ "stars": 33,
+ "contributions": 617,
+ "repos": 15,
+ "followers": 5,
+ "languages": [
+  [
+   "JavaScript",
+   669083
+  ],
+  [
+   "Python",
+   587963
+  ],
+  [
+   "TypeScript",
+   257275
+  ],
+  [
+   "C++",
+   245127
+  ],
+  [
+   "QML",
+   102493
+  ],
+  [
+   "HTML",
+   92960
+  ],
+  [
+   "CSS",
+   64546
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 13,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 25,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 16,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 6,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 14,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 25,
+  "longest": 25
+ },
+ "pins": [
+  {
+   "name": "TuneCloud",
+   "url": "https://github.com/skippingclass/TuneCloud",
+   "text": "Self-hosted music streaming platform with Kubernetes, GitOps, CI/CD and OpenSubsonic support.",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "devops",
+    "docker",
+    "music-player",
+    "nodejs",
+    "postgresql",
+    "react",
+    "self-hosted"
+   ]
+  },
+  {
+   "name": "plasma-lrc",
+   "url": "https://github.com/skippingclass/plasma-lrc",
+   "text": "Lightweight Plasma 6 widget displaying live lyrics using MPRIS and Spicy Lyrics API / LRCLIB.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "lyrics",
+    "plasma6",
+    "kde-plasma",
+    "synced-lyrics"
+   ]
+  },
+  {
+   "name": "TuneCloud-GitOps",
+   "url": "https://github.com/skippingclass/TuneCloud-GitOps",
+   "text": "Helm chart and GitOps configuration for deploying TuneCloud via ArgoCD.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "argocd",
+    "gitops",
+    "helm",
+    "infrastructure-as-code",
+    "kubernetes",
+    "monitoring"
+   ]
+  },
+  {
+   "name": "SpicetifySongProds",
+   "url": "https://github.com/skippingclass/SpicetifySongProds",
+   "text": "Spicetify extension that displays track producer credits above the song title using the Genius API.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "spicetify-extensions"
+   ]
+  },
+  {
+   "name": "dots",
+   "url": "https://github.com/skippingclass/dots",
+   "text": "Cozy scrollable-tiling Niri setup featuring a peach-themed modular Waybar, Alacritty, Fuzzel, and Fish.",
+   "fork": false,
+   "stars": 18,
+   "language": "Shell",
+   "topics": [
+    "dotfiles",
+    "niri",
+    "niri-dotfiles",
+    "window-manager"
+   ]
+  },
+  {
+   "name": "plasma-ai-status",
+   "url": "https://github.com/skippingclass/plasma-ai-status",
+   "text": "KDE Plasma 6 widget for Antigravity and OpenAI Codex activity, usage limits, and reset timers.",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": [
+    "antigravity",
+    "kde",
+    "material3",
+    "pixel-art",
+    "plasma",
+    "plasma6",
+    "plasmoid",
+    "system-monitor"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "dots",
+   "url": "https://github.com/skippingclass/dots",
+   "text": "Cozy scrollable-tiling Niri setup featuring a peach-themed modular Waybar, Alacritty, Fuzzel, and Fish.",
+   "fork": false,
+   "stars": 18,
+   "language": "Shell",
+   "topics": [
+    "dotfiles",
+    "niri",
+    "niri-dotfiles",
+    "window-manager"
+   ]
+  },
+  {
+   "name": "TuneCloud",
+   "url": "https://github.com/skippingclass/TuneCloud",
+   "text": "Self-hosted music streaming platform with Kubernetes, GitOps, CI/CD and OpenSubsonic support.",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "devops",
+    "docker",
+    "music-player",
+    "nodejs",
+    "postgresql",
+    "react",
+    "self-hosted"
+   ]
+  },
+  {
+   "name": "flacblind",
+   "url": "https://github.com/skippingclass/flacblind",
+   "text": "The `flacblind` utility allows you to perform an ABX blind test to distinguish between FLAC (lossless) and MP3 (lossy) audio files.",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "plasma-lrc",
+   "url": "https://github.com/skippingclass/plasma-lrc",
+   "text": "Lightweight Plasma 6 widget displaying live lyrics using MPRIS and Spicy Lyrics API / LRCLIB.",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "lyrics",
+    "plasma6",
+    "kde-plasma",
+    "synced-lyrics"
+   ]
+  },
+  {
+   "name": "TuneCloud-GitOps",
+   "url": "https://github.com/skippingclass/TuneCloud-GitOps",
+   "text": "Helm chart and GitOps configuration for deploying TuneCloud via ArgoCD.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "argocd",
+    "gitops",
+    "helm",
+    "infrastructure-as-code",
+    "kubernetes",
+    "monitoring"
+   ]
+  },
+  {
+   "name": "SpicetifySongProds",
+   "url": "https://github.com/skippingclass/SpicetifySongProds",
+   "text": "Spicetify extension that displays track producer credits above the song title using the Genius API.",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "spicetify-extensions"
+   ]
+  },
+  {
+   "name": "nixos-configuration",
+   "url": "https://github.com/skippingclass/nixos-configuration",
+   "text": "My NixOS setup with KDE Plasma and Zen kernel.",
+   "fork": false,
+   "stars": 1,
+   "language": "Nix",
+   "topics": [
+    "nixos",
+    "nixos-configuration"
+   ]
+  },
+  {
+   "name": "kachbot-gitops",
+   "url": "https://github.com/skippingclass/kachbot-gitops",
+   "text": "WalterGrimes/Training-tg-bot K8s Manifest",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pratika_test",
+   "url": "https://github.com/skippingclass/pratika_test",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "Training-tg-bot",
+   "url": "https://github.com/skippingclass/Training-tg-bot",
+   "text": "KachBot — телеграм-бот, который считает 1ПМ, оценивает рекорды по возрасту и весу, распознаёт программу тренировок с фото и может выдать план. Можно спросить: «Сколько мой максимум, если пожал 100 на 10?» или «Норм ли 140 в 15 лет?»",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "testiki",
+   "url": "https://github.com/skippingclass/testiki",
+   "text": "Playground for testing Docker Compose, Nginx, and GitLab CI/CD.",
+   "fork": false,
+   "stars": 1,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "skippingclass",
+   "url": "https://github.com/skippingclass/skippingclass",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Vokeyra",
+   "url": "https://github.com/skippingclass/Vokeyra",
+   "text": "Private, local speech-to-text for Windows and Linux",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "slsk_mcp",
+   "url": "https://github.com/skippingclass/slsk_mcp",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "plasma-ai-status",
+   "url": "https://github.com/skippingclass/plasma-ai-status",
+   "text": "KDE Plasma 6 widget for Antigravity and OpenAI Codex activity, usage limits, and reset timers.",
+   "fork": false,
+   "stars": 0,
+   "language": "QML",
+   "topics": [
+    "antigravity",
+    "kde",
+    "material3",
+    "pixel-art",
+    "plasma",
+    "plasma6",
+    "plasmoid",
+    "system-monitor"
+   ]
+  }
+ ]
+}
